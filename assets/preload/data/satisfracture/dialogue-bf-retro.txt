@@ -1,0 +1,18 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:So are you like, me from an alternate dimension or something?
+:setFont:vcr.ttf|40
+:bf:I guess?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:I heard you remix other people's mods...
+:setFont:vcr.ttf|40
+:bf:Yeah! It's a lot of fun and I really like supporting the communit--
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:...and all you do is add kicks and snares to their music.
+:setFont:vcr.ttf|40
+:bf:Okay that's a little rude. Why are you so angry?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:I'm LITERALLY wrath.
+:setFont:vcr.ttf|40
+:bf:You don't have to be so mean to yourself though [Frown]
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:There's a symbolic message in that sentence somewhere.

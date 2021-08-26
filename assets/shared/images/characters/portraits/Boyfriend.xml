@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boyfriend.png">
+	<SubTexture name="Neutral0000" x="75" y="38" width="392" height="477"/>
+    <SubTexture name="Smug0000" x="592" y="38" width="392" height="477"/>
+    <SubTexture name="Happy0000" x="1114" y="38" width="392" height="477"/>
+    <SubTexture name="Booba0000" x="1650" y="38" width="392" height="477"/>
+    <SubTexture name="Blush0000" x="2171" y="38" width="392" height="477"/>
+    <SubTexture name="Huh0000" x="2711" y="33" width="381" height="482"/>
+</TextureAtlas>

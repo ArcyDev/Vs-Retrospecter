@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AtroceanBop.png">
+    <SubTexture name="bop0000" x="0" y="0" width="658" height="612" frameX="0" frameY="-87" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0001" x="0" y="0" width="658" height="612" frameX="0" frameY="-87" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0002" x="658" y="0" width="658" height="612" frameX="-13" frameY="-13" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0003" x="658" y="0" width="658" height="612" frameX="-13" frameY="-13" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0004" x="1316" y="0" width="658" height="612" frameX="-17" frameY="0" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0005" x="1316" y="0" width="658" height="612" frameX="-17" frameY="0" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0006" x="1974" y="0" width="658" height="612" frameX="-3" frameY="-38" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0007" x="1974" y="0" width="658" height="612" frameX="-3" frameY="-38" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0008" x="0" y="612" width="658" height="612" frameX="-2" frameY="-44" frameWidth="658" frameHeight="612" />
+    <SubTexture name="bop0009" x="0" y="612" width="658" height="612" frameX="-2" frameY="-44" frameWidth="658" frameHeight="612" />
+</TextureAtlas>

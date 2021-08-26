@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HivemineBop.png">
+    <SubTexture name="Hivemine bop0000" x="0" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0001" x="0" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0002" x="862" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0003" x="862" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0004" x="1724" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0005" x="1724" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0006" x="2586" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0007" x="2586" y="0" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0008" x="0" y="674" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+    <SubTexture name="Hivemine bop0009" x="0" y="674" width="862" height="674" frameX="0" frameY="0" frameWidth="862" frameHeight="674" />
+</TextureAtlas>

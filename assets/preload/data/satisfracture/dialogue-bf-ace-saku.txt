@@ -1,0 +1,14 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:What are you doing here?
+:setFont:vcr.ttf|40
+:bf:Saku and I wanted to check your place out.
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:It's cool and all, but I'm not sure how I feel about all the green.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:There's more cyan down below.
+:setFont:Blenda Script.otf|40
+:sakuroma:Horny:Oh my, darling, I know~
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:I meant in the depths below. You know, the area below the floor we're standing on?
+:setFont:vcr.ttf|40
+:bf:Sure buddy, sure.

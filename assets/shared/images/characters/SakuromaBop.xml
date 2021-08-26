@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SakuromaBop.png">
+    <SubTexture name="SakuromaBop idle0000" x="0" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0001" x="0" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0002" x="455" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0003" x="455" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0004" x="910" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0005" x="910" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0006" x="1365" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0007" x="1365" y="0" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0008" x="0" y="674" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+    <SubTexture name="SakuromaBop idle0009" x="0" y="674" width="455" height="674" frameX="0" frameY="0" frameWidth="455" frameHeight="674" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Don't push me, little man.
+:setFont:vcr.ttf|40
+:bf:Smug:Boop beep?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Annoyed? No.
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:I'M ALREADY PISSED!

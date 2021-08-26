@@ -1,0 +1,5 @@
+Retro:retro-wrath:1
+Satisfracture:retro-wrath:1
+Spectral:retro2:1
+Ectospasm:retro2-wrath:1
+Fuzzy-Feeling:sakuroma:1

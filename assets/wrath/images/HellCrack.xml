@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HellCrack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HellcrackAppear0000" x="0" y="0" width="8" height="5" frameX="-148" frameY="-176" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackAppear0001" x="8" y="0" width="8" height="5" frameX="-148" frameY="-176" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackAppear0002" x="15" y="0" width="95" height="34" frameX="-99" frameY="-166" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackAppear0003" x="111" y="0" width="95" height="34" frameX="-99" frameY="-166" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackAppear0004" x="206" y="0" width="267" height="98" frameX="-8" frameY="-137" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackAppear0005" x="473" y="0" width="267" height="222" frameX="-8" frameY="-13" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackAppear0006" x="741" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0007" x="1025" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0008" x="1309" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0009" x="1593" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0010" x="1877" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0011" x="2162" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0012" x="2446" y="0" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0013" x="0" y="239" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0014" x="284" y="239" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0015" x="568" y="239" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0016" x="853" y="239" width="284" height="239"/>
+	<SubTexture name="HellcrackAppear0017" x="1137" y="239" width="284" height="239"/>
+    <SubTexture name="HellcrackAppear0018" x="1421" y="239" width="284" height="106" frameX="0" frameY="-133" frameWidth="284" frameHeight="239"/>
+	<SubTexture name="HellcrackBop0000" x="1421" y="239" width="284" height="106" frameX="0" frameY="-133" frameWidth="284" frameHeight="239"/>
+	<!--<SubTexture name="HellcrackBop0001" x="2436" y="342" width="406" height="152" frameX="0" frameY="-190" frameWidth="406" frameHeight="342"/>
+	<SubTexture name="HellcrackBop0002" x="2842" y="342" width="406" height="342"/>
+	<SubTexture name="HellcrackBop0003" x="3248" y="342" width="406" height="342"/>
+	<SubTexture name="HellcrackBop0001" x="3654" y="342" width="406" height="342"/>-->
+	<SubTexture name="HellcrackBop0001" x="0" y="479" width="284" height="239"/>
+	<SubTexture name="HellcrackBop0002" x="284" y="479" width="284" height="239"/>
+	<SubTexture name="HellcrackBop0003" x="568" y="479" width="284" height="239"/>
+	<SubTexture name="HellcrackBop0004" x="853" y="479" width="284" height="239"/>
+	<SubTexture name="HellcrackBop0005" x="1137" y="479" width="284" height="239"/>
+	<SubTexture name="HellcrackBop0006" x="1421" y="479" width="284" height="239"/>
+	<SubTexture name="HellcrackBop0007" x="1705" y="479" width="284" height="106" frameX="0" frameY="-133" frameWidth="284" frameHeight="239"/>
+</TextureAtlas>

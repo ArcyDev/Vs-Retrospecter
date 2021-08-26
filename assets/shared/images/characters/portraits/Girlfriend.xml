@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Girlfriend.png">
+	<SubTexture name="Neutral0000" x="84" y="38" width="404" height="483"/>
+    <SubTexture name="Sad0000" x="580" y="25" width="425" height="496"/>
+    <SubTexture name="Happy0000" x="1089" y="38" width="404" height="483"/>
+</TextureAtlas>

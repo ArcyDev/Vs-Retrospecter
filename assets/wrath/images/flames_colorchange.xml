@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flames_colorchange.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 1 Instanz 10000" x="10" y="10" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10001" x="10" y="10" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10002" x="1989" y="10" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10003" x="1989" y="10" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10004" x="10" y="970" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10005" x="10" y="970" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10006" x="1989" y="970" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10007" x="1989" y="970" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10008" x="10" y="1930" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10009" x="10" y="1930" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10010" x="1989" y="1930" width="1969" height="950"/>
+	<SubTexture name="Symbol 1 Instanz 10011" x="1989" y="1930" width="1969" height="950"/>
+	<SubTexture name="Symbol 2 Instanz 10000" x="10" y="2890" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10001" x="10" y="2890" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10002" x="1990" y="2890" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10003" x="1990" y="2890" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10004" x="10" y="3849" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10005" x="10" y="3849" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10006" x="1990" y="3849" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10007" x="1990" y="3849" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10008" x="10" y="4808" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10009" x="10" y="4808" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10010" x="1990" y="4808" width="1970" height="949"/>
+	<SubTexture name="Symbol 2 Instanz 10011" x="1990" y="4808" width="1970" height="949"/>
+</TextureAtlas>

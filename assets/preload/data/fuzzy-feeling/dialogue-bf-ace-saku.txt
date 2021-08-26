@@ -1,0 +1,10 @@
+:setFont:Blenda Script.otf|40
+:sakuromas:Blush:Ara ara~
+:setFont:vcr.ttf|40
+:bf:Whoah. Why are there two of you?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Are you complaining?
+:setFont:vcr.ttf|40
+:bf:No, not at all. owo
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:That's what I thought.

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EndCutscene5.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="retrophase2-3cutscene_04_020000" x="10" y="10" width="2301" height="1496"/>
+	<SubTexture name="retrophase2-3cutscene_04_020001" x="10" y="1516" width="2301" height="1496"/>
+	<SubTexture name="retrophase2-3cutscene_04_020002" x="10" y="3022" width="2301" height="1496"/>
+	<SubTexture name="retrophase2-3cutscene_04_020003" x="10" y="4528" width="2301" height="1496"/>
+</TextureAtlas>

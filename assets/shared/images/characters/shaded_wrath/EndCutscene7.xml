@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EndCutscene7.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="retrophase2-3cutscene_050000" x="10" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050001" x="1703" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050002" x="3396" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050003" x="5089" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050004" x="10" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050005" x="1703" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050006" x="3396" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050007" x="5089" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050008" x="10" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050009" x="1703" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050010" x="3396" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050011" x="5089" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050012" x="10" y="4405" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050013" x="1703" y="4405" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050014" x="3396" y="4405" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050015" x="5089" y="4405" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050016" x="10" y="5870" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050017" x="1703" y="5870" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050018" x="3396" y="5870" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_050019" x="5089" y="5870" width="1683" height="1455"/>
+</TextureAtlas>

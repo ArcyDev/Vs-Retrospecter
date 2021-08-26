@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="runes_glow2.png">
+    <SubTexture name="Glow0000" x="0" y="0" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0001" x="2962" y="0" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0002" x="5924" y="0" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0003" x="8886" y="0" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0004" x="0" y="1871" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0005" x="2962" y="1871" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0006" x="5924" y="1871" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0007" x="8886" y="1871" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0008" x="0" y="3742" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0009" x="2962" y="3742" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0010" x="5924" y="3742" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0011" x="8886" y="3742" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Glow0012" x="0" y="5612" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+    <SubTexture name="Cave0000" x="2962" y="5612" width="2962" height="1871" frameX="0" frameY="0" frameWidth="2962" frameHeight="1871" />
+</TextureAtlas>

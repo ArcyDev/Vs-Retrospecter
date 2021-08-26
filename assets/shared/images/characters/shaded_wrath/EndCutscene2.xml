@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EndCutscene2.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="retrophase2-3cutscene_020000" x="10" y="10" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020001" x="1520" y="10" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020002" x="3030" y="10" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020003" x="4540" y="10" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020004" x="6050" y="10" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020005" x="10" y="1291" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020006" x="1520" y="1291" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020007" x="3030" y="1291" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020008" x="4540" y="1291" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020009" x="6050" y="1291" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020010" x="10" y="2572" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020011" x="1520" y="2572" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020012" x="3030" y="2572" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020013" x="4540" y="2572" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020014" x="6050" y="2572" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020015" x="10" y="3853" width="1500" height="1271"/>
+	<SubTexture name="retrophase2-3cutscene_020016" x="1520" y="3853" width="1500" height="1271"/>
+</TextureAtlas>

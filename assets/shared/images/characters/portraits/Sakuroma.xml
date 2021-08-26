@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sakuroma.png">
+	<SubTexture name="Neutral0000" x="54" y="55" width="534" height="514"/>
+	<SubTexture name="Blush0000" x="622" y="55" width="508" height="514"/>
+    <SubTexture name="Happy0000" x="1192" y="55" width="458" height="514"/>
+    <SubTexture name="Flirt0000" x="1684" y="41" width="447" height="528"/>
+    <SubTexture name="Horny0000" x="2227" y="55" width="436" height="514"/>
+</TextureAtlas>

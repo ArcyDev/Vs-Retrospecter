@@ -1,0 +1,16 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Helloooooo~
+:setFont:vcr.ttf|40
+:bf:Oh. Hey, Sakuroma.
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Ace, is that you? You're so tiny and cute!
+:setFont:vcr.ttf|40
+:bf:Yeah, this is my manlet skin. What are you doing here?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:I was attracted to the sound of beautiful singing over here! I just had to see what all the ruckus was about.
+:setFont:vcr.ttf|40
+:bf:Don't lie, it was the bright fire wasn't it? Because you're a moth.
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:You know me too well, darling~ Wanna sing?
+:setFont:vcr.ttf|40
+:bf:Sure, why not.

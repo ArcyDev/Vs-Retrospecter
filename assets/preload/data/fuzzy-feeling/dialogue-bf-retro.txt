@@ -1,0 +1,12 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Good evening, Retro~
+:setFont:vcr.ttf|40
+:bf:Oh, hey Sakuroma. What are you doing in my realm?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:I was attracted to your singing with that small human, so I thought I'd stop by.
+:setFont:vcr.ttf|40
+:bf:Well, it's good to see you, I guess.
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:You as well, cutie~ Would you like to sing?
+:setFont:vcr.ttf|40
+:bf:Sounds good to me.

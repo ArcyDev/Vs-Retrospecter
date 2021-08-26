@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EASY0000" x="10" y="10" width="196" height="65"/>
+	<SubTexture name="FREESTYLE0000" x="216" y="10" width="494" height="63"/>
+	<SubTexture name="HARD0000" x="720" y="10" width="211" height="67"/>
+	<SubTexture name="HELL0000" x="10" y="87" width="208" height="65"/>
+	<SubTexture name="NO FAIL0000" x="228" y="87" width="331" height="62"/>
+	<SubTexture name="NORMAL0000" x="569" y="87" width="308" height="67"/>
+	<SubTexture name="RANDOMIZED0000" x="10" y="164" width="531" height="62"/>
+	<SubTexture name="STANDARD0000" x="551" y="164" width="424" height="64"/>
+	<SubTexture name="arrow left0000" x="0" y="230" width="179" height="105"/>
+	<SubTexture name="arrow push left0000" x="179" y="230" width="96" height="76"/>
+	<SubTexture name="arrow push right0000" x="275" y="230" width="96" height="76"/>
+	<SubTexture name="arrow right0000" x="371" y="230" width="179" height="105"/>
+    <SubTexture name="no fail lock0000" x="0" y="340" width="331" height="143"/>
+	<SubTexture name="freestyle lock0000" x="331" y="340" width="494" height="154"/>
+    <SubTexture name="randomized lock0000" x="0" y="494" width="531" height="152"/>
+</TextureAtlas>

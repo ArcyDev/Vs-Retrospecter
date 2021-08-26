@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EndCutscene1.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="retrophase2-3cutscene_010000" x="10" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010001" x="10" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010002" x="10" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010003" x="10" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010004" x="1735" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010005" x="1735" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010006" x="3460" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010007" x="3460" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010008" x="5185" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010009" x="5185" y="10" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010010" x="10" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010011" x="10" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010012" x="1735" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010013" x="1735" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010014" x="3460" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010015" x="3460" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010016" x="3460" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010017" x="5185" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010018" x="5185" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010019" x="5185" y="1153" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010020" x="10" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010021" x="10" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010022" x="10" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010023" x="1735" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010024" x="1735" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010025" x="1735" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010026" x="3460" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010027" x="5185" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010028" x="5185" y="2296" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010029" x="10" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010030" x="10" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010031" x="1735" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010032" x="1735" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010033" x="3460" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010034" x="3460" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010035" x="5185" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010036" x="5185" y="3439" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010037" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010038" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010039" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010040" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010041" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010042" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010043" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010044" x="10" y="4582" width="1715" height="1133"/>
+	<SubTexture name="retrophase2-3cutscene_010045" x="10" y="4582" width="1715" height="1133"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Two wraths.
+:setFont:vcr.ttf|40
+:bf:One lust ;)
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Darlings please, there are people watching~!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Like a bit of voyeurism has stopped you before.
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:You're right, after all, you were part of it.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:C-Can you not do this in front of the other me?!
+:setFont:vcr.ttf|40
+:bf:No please, do go on.

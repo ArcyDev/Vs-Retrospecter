@@ -1,0 +1,11 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:That was spectacular! I felt our voices becoming one, we were made to sing in harmony!
+:setFont:vcr.ttf|40
+:bf:Happy:Beep bap!
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:If you don't mind, I'd love to take your girlfriend's spot over there and listen to you sing again sometime~
+:setFont:vcr.ttf|40
+:bf:Booba:BOOBA
+:gf:Sad:[Sad]
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:(Don't worry, sweetie, this is all non-canon.)

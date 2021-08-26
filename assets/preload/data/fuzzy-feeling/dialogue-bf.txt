@@ -1,0 +1,16 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Ara Ara~
+:setFont:vcr.ttf|40
+:bf:Neutral:Beep boop?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:My, my, aren't you a cutie!
+:setFont:vcr.ttf|40
+:bf:Blush:B-beep...
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:I saw you and our angry cyan hunk's little spectacle over there. You were both very impressive~
+:setFont:vcr.ttf|40
+:bf:Happy:Beep boop brap!
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Your voice is so enchanting! I'd love to sing a quick song with you.
+:setFont:vcr.ttf|40
+:bf:Blush:B-Beep?!

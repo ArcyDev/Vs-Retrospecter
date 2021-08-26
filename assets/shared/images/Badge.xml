@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Badge.png">
+    <SubTexture name="Badge Shine0000" x="0" y="0" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0001" x="153" y="0" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0002" x="306" y="0" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0003" x="459" y="0" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0004" x="0" y="153" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0005" x="153" y="153" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0006" x="306" y="153" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0007" x="459" y="153" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0008" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0009" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0010" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0011" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0012" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0013" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0014" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0015" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0016" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0017" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0018" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0019" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0020" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0021" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0022" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0023" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0024" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0025" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0026" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0027" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0028" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0029" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0030" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0031" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+    <SubTexture name="Badge Shine0032" x="0" y="306" width="153" height="153" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+</TextureAtlas>

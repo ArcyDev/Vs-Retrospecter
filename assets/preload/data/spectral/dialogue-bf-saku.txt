@@ -1,0 +1,11 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:You two are so cute together!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Quiet, little lady. We're trying to sing here.
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Little? I believe I'm the tallest one here...Manlets~
+:setFont:vcr.ttf|40
+:bf:Huh:Bep
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:WE'LL SEE ABOUT THAT!

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EndCutscene8.png">
+	<!-- Created with Adobe Animate version 16.0.1.119 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="retrophase2-3cutscene_060000" x="10" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060001" x="1703" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060002" x="3396" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060003" x="5089" y="10" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060004" x="10" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060005" x="1703" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060006" x="3396" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060007" x="5089" y="1475" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060008" x="10" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060009" x="1703" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060010" x="1703" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060011" x="3396" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060012" x="3396" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060013" x="5089" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060014" x="5089" y="2940" width="1683" height="1455"/>
+	<SubTexture name="retrophase2-3cutscene_060015" x="1703" y="2940" width="1683" height="1455"/>
+</TextureAtlas>

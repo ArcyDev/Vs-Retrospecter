@@ -1,0 +1,17 @@
+:setFont:vcr.ttf|40
+:bf:Neutral:Boop?
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Oh hello, Boyfriend! Good to see you again!
+:setFont:vcr.ttf|40
+:bf:Booba:Beep booba?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Why are there two of us? Well...
+:sakuromas:Flirt:It must be the pheromones~
+:setFont:vcr.ttf|40
+:bf:Neutral:Bep bap?
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Your girlfriend is off-screen, supporting you from the sidelines!
+:setFont:vcr.ttf|40
+:gf:Happy:^_^
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Now, shall we sing together?

@@ -1,0 +1,13 @@
+:setFont:vcr.ttf|40
+:bf:Haha you sound kinda like Asgore.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:You have no idea how many people have said this.
+:setFont:vcr.ttf|40
+:bf:No, I actually do.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:How?
+:setFont:vcr.ttf|40
+:bf:You DM me about it all the time.
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:YEAH, AND IT PISSES ME OFF!

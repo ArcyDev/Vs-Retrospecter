@@ -1,0 +1,14 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Your voice sounds different than usual. Have you been drinking more water?
+:setFont:vcr.ttf|40
+:bf:Hey, I like my coarse voice.
+:setFont:Blenda Script.otf|40
+:sakuroma:Horny:I do too, especially--
+:setFont:vcr.ttf|40
+:bf:Not the time.
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Anyways, I'll be around in place of Girlfriend over there, so I can watch yours and Boyfriend's splendour.
+:setFont:vcr.ttf|40
+:gf:Sad:[Sad]
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:(Don't worry, sweetie, this is all non-canon.)

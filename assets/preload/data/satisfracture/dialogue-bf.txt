@@ -1,0 +1,22 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Oh, it's you.
+:setFont:vcr.ttf|40
+:bf:Neutral:Beep
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:You sure took your time. I was wondering when you'd show up.
+:setFont:vcr.ttf|40
+:bf:Neutral:Beep boop bop
+:setFont:EastSeaDokdo.ttf|60
+:retro:Point:Your girlfriend seems pretty comfortable down here, she even dressed for the occasion.
+:setFont:vcr.ttf|40
+:gf:Neutral:[Happy]
+:bf:Neutral:Boopa
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:You want into the city? Sing.
+:retro:Neutral:Prove your worth, and you can pass my gates of Wrath.
+:setFont:vcr.ttf|40
+:bf:Smug:Bip brap boop
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:I'm not gonna go easy on you though, I've prepared a little surprise for this one.
+:setFont:vcr.ttf|40
+:bf:Neutral:Beep?

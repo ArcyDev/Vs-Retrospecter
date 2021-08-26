@@ -1,0 +1,10 @@
+:setFont:vcr.ttf|40
+:bf:Happy:Beep boop bop!
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Amazing as always, Boyfriend. We are both impressed as usual!
+:setFont:vcr.ttf|40
+:bf:Smug:Beep.
+:setFont:Blenda Script.otf|40
+:sakuromas:Horny:A foursome with Girlfriend? Our pleasure~
+:setFont:vcr.ttf|40
+:gf:Neutral:;)

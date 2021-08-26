@@ -1,0 +1,9 @@
+﻿<TextureAtlas imagePath="RetroSpecter.png">
+	<SubTexture name="Neutral0000" x="42" y="28" width="436" height="508"/>
+    <SubTexture name="Point0000" x="583" y="28" width="513" height="508"/>
+	<SubTexture name="Smug0000" x="1157" y="28" width="436" height="508"/>
+    <SubTexture name="Angry0000" x="1714" y="31" width="503" height="508"/>
+    <SubTexture name="Blush0000" x="2256" y="23" width="524" height="513"/>
+    <SubTexture name="Confused0000" x="2820" y="32" width="504" height="504"/>
+    <SubTexture name="Enraged0000" x="4" y="546" width="743" height="541"/>
+</TextureAtlas>

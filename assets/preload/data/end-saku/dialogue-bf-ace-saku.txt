@@ -1,0 +1,8 @@
+:setFont:vcr.ttf|40
+:bf:So, like...
+:setFont:Blenda Script.otf|40
+:sakuromas:Neutral:Hmm?
+:setFont:vcr.ttf|40
+:bf:Can you both sit on me?
+:setFont:Blenda Script.otf|40
+:sakuromas:Flirt:If you insist ;)

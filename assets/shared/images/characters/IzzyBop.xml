@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IzzyBop.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IzzyBop0000" x="10" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0001" x="10" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0002" x="513" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0003" x="513" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0004" x="1016" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0005" x="1016" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0006" x="1519" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0007" x="1519" y="10" width="493" height="532"/>
+	<SubTexture name="IzzyBop0008" x="10" y="552" width="493" height="532"/>
+	<SubTexture name="IzzyBop0009" x="10" y="552" width="493" height="532"/>
+	<SubTexture name="IzzyBop0010" x="10" y="552" width="493" height="532"/>
+	<SubTexture name="IzzyBop0011" x="10" y="552" width="493" height="532"/>
+	<SubTexture name="IzzyBop0012" x="10" y="552" width="493" height="532"/>
+	<SubTexture name="IzzyBop0013" x="10" y="552" width="493" height="532"/>
+</TextureAtlas>

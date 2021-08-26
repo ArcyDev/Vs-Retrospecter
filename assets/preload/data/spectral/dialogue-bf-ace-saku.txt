@@ -1,0 +1,8 @@
+:setFont:vcr.ttf|40
+:bf:Hey, that was fun! But I wish Saku would stop stinking up the place with her pheromones.
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Oh hush, you like it just as much as Retro does.
+:setFont:vcr.ttf|40
+:bf:Shut.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:...Moving on. Here's phase two.

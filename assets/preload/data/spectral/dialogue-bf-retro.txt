@@ -1,0 +1,15 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Enough.
+:setFont:vcr.ttf|40
+:bf:You said the Whitty line!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Shut up, before I do things to you that you'll regret.
+:setFont:vcr.ttf|40
+:bf:What if I'm into that?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Okay, furry.
+:setFont:vcr.ttf|40
+:bf:Look who's talking, Mr. Walking furry commentator. Better watch out before somebody gets offended.
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:OH, IT'S ON, HALF-PINT!
