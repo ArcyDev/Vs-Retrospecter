@@ -1112,6 +1112,7 @@ class ResetSettings extends Option
 		FlxG.save.data.inputShow = null;
 		FlxG.save.data.optimize = null;
 		FlxG.save.data.cacheImages = null;
+		FlxG.save.data.cacheCutscenes = null;
 		FlxG.save.data.editor = null;
 
 		KadeEngineData.initSave();

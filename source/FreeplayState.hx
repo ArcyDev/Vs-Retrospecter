@@ -461,7 +461,7 @@ class FreeplayState extends MusicBeatState
 			switch(songs[curSelected].songName)
 			{
 				case 'Spectral':
-					if (!songUnlocked[1])
+					if (!songUnlocked[2])
 						return;
 				case 'Ectospasm':
 					if (!songUnlocked[3])
@@ -643,7 +643,7 @@ class FreeplayState extends MusicBeatState
 		switch(songs[curSelected].songName)
 		{
 			case 'Spectral':
-				if (!songUnlocked[1])
+				if (!songUnlocked[2])
 				{
 					FlxG.sound.music.pause();
 					unlockText.text = "Beat Wrath Story";

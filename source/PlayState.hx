@@ -5224,7 +5224,7 @@ class PlayState extends MusicBeatState
 					{
 						poisonNoteHits[note.noteData].members[i].x = note.x - note.width - 5;
 						poisonNoteHits[note.noteData].members[i].y = note.y - (note.height / 2) - 20;
-						poisonNoteHits[note.noteData].members[i].angle = note.angle;
+						poisonNoteHits[note.noteData].members[i].angle = note.modAngle;
 						poisonNoteHits[note.noteData].members[i].animation.play('break', true);
 						poisonNoteHits[note.noteData].members[i].visible = true;
 						poisonNoteHits[note.noteData].members[i].animation.finishCallback = function(str:String)
@@ -5247,7 +5247,7 @@ class PlayState extends MusicBeatState
 					{
 						spectreNoteHits[note.noteData].members[i].x = note.x - note.width - 9;
 						spectreNoteHits[note.noteData].members[i].y = note.y - (note.height / 2) - 20;
-						spectreNoteHits[note.noteData].members[i].angle = note.angle;
+						spectreNoteHits[note.noteData].members[i].angle = note.modAngle;
 						spectreNoteHits[note.noteData].members[i].animation.play('break', true);
 						spectreNoteHits[note.noteData].members[i].visible = true;
 						spectreNoteHits[note.noteData].members[i].animation.finishCallback = function(str:String)
