@@ -128,7 +128,7 @@ class CreditsState extends MusicBeatState
 			// Programming
 			['ArcyDev', '@AwkwardArcy', 'arcy', 0xFFed870f, 'https://twitter.com/AwkwardArcy', ['This whole mod team was amazing to work with. Please check them out!', 'Bark!', 'Please don\'t look at the source code', 'Yes Retro, I\'ll put in this feature at 5 AM', 'Sorry, I don\'t know how to optimize for potatoes', 'Vs Retrospecter development speedrun - 286:37:44.69', 'I am never touching HaxeFlixel ever again', 'Good design patterns? Multithreading? A clean, readable codebase? Sorry, I don\'t know what any of those are']],
 			['Carbon', '@LucasLacus02', 'carbon', FlxColor.fromRGB(229, 229, 221), 'https://twitter.com/lucaslacus02', ['I\'m going back to Unity', 'Mutex lock deez nuts', 'I\'m actually a Seagle (Seagull+Eagle)', 'Arcy\'s helper bird', 'While you\'re lying there screamin \'come help me please\' the seagulls, poke yo knees', 'Did someone say multithreading ;)', 'Play Touhou', 'Bird Gang', 'Jade\'s sleep paralysis demon']],
-			['TSG', '@AyeTSG', 'tsg', FlxColor.fromRGB(120, 120, 120), 'https://twitter.com/ayetsg', ['bark bark im programming', 'hi jaden', 'i love tally hall', 'i do a little trolling', 'dame da ne', 'bark', 'axolotls are cool', 'i like cats', 'i like fennec foxes', 'follow @fennykinz on twitter']]
+			['TSG', '@AyeTSG', 'tsg', FlxColor.fromRGB(120, 120, 120), 'https://twitter.com/ayetsg', ['bark bark im programming', 'i love tally hall', 'i do a little trolling', 'dame da ne', 'bark', 'axolotls are cool', 'i like cats', 'i like fennec foxes']]
 		],
 		[
 			// Charting
