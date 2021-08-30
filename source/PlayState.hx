@@ -1488,7 +1488,7 @@ class PlayState extends MusicBeatState
 			+ 50, 0,
 			(trueEctospasm ? 'True Ectospasm' : SONG.song)
 			+ " "
-			+ (storyDifficulty == 3 ? "Hell" : storyDifficulty == 2 ? "Hard" : storyDifficulty == 1 ? "Normal" : "Easy")
+			+ (storyDifficulty == 4 ? "Hell" : storyDifficulty == 3 ? "Hard" : storyDifficulty == 2 ? "Normal" : storyDifficulty == 1 ? "Easy" : "Heaven")
 			+ " "
 			+ (storyMode == 3 ? "Randomized" : storyMode == 2 ? "Freestyle" : storyMode == 1 ? "No Fail" : "Standard")
 			+ (Main.watermarks ? " - KE " + MainMenuState.kadeEngineVer : ""),
@@ -2597,12 +2597,13 @@ class PlayState extends MusicBeatState
 			babyArrow.scrollFactor.set();
 
 			babyArrow.alpha = 0;
-			if (!isStoryMode)
+			// (Arcy) Causes issues with Freeplay currently
+			/*if (!isStoryMode)
 			{
 				babyArrow.y -= 10;
 				//babyArrow.alpha = 0;
 				FlxTween.tween(babyArrow, {y: babyArrow.y + 10, alpha: 1}, 1, {ease: FlxEase.circOut, startDelay: 0.5 + (0.2 * i)});
-			}
+			}*/
 
 			babyArrow.ID = i;
 			babyArrow.animation.play('static');
@@ -2715,7 +2716,7 @@ class PlayState extends MusicBeatState
 	{
 		strumLineNotes.forEach(function(babyArrow:FlxSprite)
 		{
-			if (isStoryMode)
+			//if (isStoryMode)
 				babyArrow.alpha = 1;
 		});
 	}

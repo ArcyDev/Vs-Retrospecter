@@ -17,7 +17,7 @@ class PauseSubState extends MusicBeatSubstate
 	var grpMenuShit:FlxTypedGroup<Alphabet>;
 
 	var menuItems:Array<String> = ['Resume', 'Restart Song', 'Change Difficulty', 'Exit to menu'];
-	var difficulties:Array<String> = ['Easy', 'Normal', 'Hard', 'Hell'];
+	var difficulties:Array<String> = ['Heaven', 'Easy', 'Normal', 'Hard', 'Hell'];
 	var curSelected:Int = 0;
 
 	var pauseMusic:FlxSound;
@@ -37,7 +37,7 @@ class PauseSubState extends MusicBeatSubstate
 
 		if(FlxG.gamepads.lastActive != null) {
 			confirmButtonEnabled = false;
-			
+
 			new FlxTimer().start(0.5, (timer:FlxTimer) -> {
 				confirmButtonEnabled = true;
 			});
@@ -278,7 +278,7 @@ class PauseSubState extends MusicBeatSubstate
 			if (PlayState.SONG.song == "Ectospasm")
 				menuItems = ['Hell'];
 			else
-				menuItems = ['Easy', 'Normal', 'Hard', 'Hell'];
+				menuItems = ['Heaven', 'Easy', 'Normal', 'Hard', 'Hell'];
 		}
 		else
 		{

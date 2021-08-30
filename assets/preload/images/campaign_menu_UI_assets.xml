@@ -2,6 +2,7 @@
 <TextureAtlas imagePath="campaign_menu_UI_assets.png">
 	<!-- Created with Adobe Animate version 21.0.7.42652 -->
 	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="HEAVEN0000" x="558" y="235" width="313" height="64"/>
 	<SubTexture name="EASY0000" x="10" y="10" width="196" height="65"/>
 	<SubTexture name="FREESTYLE0000" x="216" y="10" width="494" height="63"/>
 	<SubTexture name="HARD0000" x="720" y="10" width="211" height="67"/>

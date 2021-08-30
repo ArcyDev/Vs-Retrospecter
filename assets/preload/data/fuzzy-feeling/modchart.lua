@@ -134,18 +134,34 @@ end
 
 function beatHit (beat)
 	-- Effect checks
-	if (beat >= 16 and beat < 20 and getActorAlpha(0) == 0) then
-		tweenFadeIn(0, 1, 1)
-		tweenFadeIn(7, 1, 1)
-	elseif (beat >= 20 and beat < 24 and getActorAlpha(1) == 0) then
-		tweenFadeIn(1, 1, 1)
-		tweenFadeIn(6, 1, 1)
-	elseif (beat >= 24 and beat < 28 and getActorAlpha(2) == 0) then
-		tweenFadeIn(2, 1, 1)
-		tweenFadeIn(5, 1, 1)
-	elseif (beat >= 28 and beat < 32 and getActorAlpha(3) == 0) then
-		tweenFadeIn(3, 1, 1)
-		tweenFadeIn(4, 1, 1)
+	if (beat >= 16 and beat < 20) then
+        if (getActorAlpha(0) == 0) then
+            tweenFadeIn(0, 1, 1)
+        end
+        if (getActorAlpha(7) == 0) then
+            tweenFadeIn(7, 1, 1)
+        end
+	elseif (beat >= 20 and beat < 24) then
+        if (getActorAlpha(1) == 0) then
+            tweenFadeIn(1, 1, 1)
+        end
+        if (getActorAlpha(6) == 0) then
+            tweenFadeIn(6, 1, 1)
+        end
+	elseif (beat >= 24 and beat < 28) then
+        if (getActorAlpha(2) == 0) then
+            tweenFadeIn(2, 1, 1)
+        end
+        if (getActorAlpha(5) == 0) then
+            tweenFadeIn(5, 1, 1)
+        end
+	elseif (beat >= 28 and beat < 32) then
+        if (getActorAlpha(3) == 0) then
+            tweenFadeIn(3, 1, 1)
+        end
+        if (getActorAlpha(4) == 0) then
+            tweenFadeIn(4, 1, 1)
+        end
 	elseif (beat == 62) then -- Can't really prevent missing this. This sucks
 		laugh(-1)
 	elseif (beat >= 64 and beat < 128 and not p1fly) then
@@ -167,11 +183,17 @@ function beatHit (beat)
 		p1FastPulse = false
 		p2FastPulse = false
 	elseif (beat >= 256 and beat < 288 and not flyTogether) then
+        for i=0,3 do
+			tweenFadeOut(i, 0.3, 0.4)
+		end
 		flyTogether = true
 		p1Pulse = true
 		p2Pulse = true
 	elseif (beat >= 288 and flyTogether) then
 		flyTogether = false
+        for i=0,3 do
+			tweenFadeIn(i, 1, 0.4)
+		end
 		for i=0,7 do
 			tweenPos(i, middlePoint + ((i % 4) * 125), _G['defaultStrum'..i..'Y'], 2)
 		end

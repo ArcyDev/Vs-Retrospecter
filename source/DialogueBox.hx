@@ -557,19 +557,22 @@ class DialogueBox extends FlxSpriteGroup
 		switch(difficulty)
 		{
 			case 0:
-				difficultyName = "easy";
+				difficultyName = "heaven";
 
 			case 1:
-				difficultyName = "normal";
+				difficultyName = "easy";
 
 			case 2:
-				difficultyName = "hard";
+				difficultyName = "normal";
 
 			case 3:
+				difficultyName = "hard";
+
+			case 4:
 				difficultyName = "hell";
 
 			default:
-				difficultyName = "INVLAID";
+				difficultyName = "INVALID";
 		}
 
 		var basePath = 'data/${song.toLowerCase().replace(' ', '-')}/dialogue-${character}';

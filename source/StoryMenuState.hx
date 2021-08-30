@@ -131,7 +131,7 @@ class StoryMenuState extends MusicBeatState
 
 	var curWeek:Int = 0;
 	var curMode:Int = 0;
-	var curDifficulty:Int = 1;
+	var curDifficulty:Int = 2;
 	var curCharacter:Int = 0;
 	var curGf:Int = 0;
 
@@ -437,6 +437,7 @@ class StoryMenuState extends MusicBeatState
 		// Difficulty stuff
 		sprDifficulty = new FlxSprite(sprMode.x, 225);
 		sprDifficulty.frames = ui_tex;
+		sprDifficulty.animation.addByPrefix('heaven', 'HEAVEN');
 		sprDifficulty.animation.addByPrefix('easy', 'EASY');
 		sprDifficulty.animation.addByPrefix('normal', 'NORMAL');
 		sprDifficulty.animation.addByPrefix('hard', 'HARD');
@@ -827,8 +828,8 @@ class StoryMenuState extends MusicBeatState
 					txtWeekTitle.screenCenter(X);
 
 					// Move the arrows back up
-					FlxTween.tween(leftArrow, {x: 575, y: 90}, 0.15, {ease: FlxEase.cubeOut});
-					FlxTween.tween(rightArrow, {x: 1110, y: 90}, 0.15, {
+					FlxTween.tween(leftArrow, {x: 535, y: 90}, 0.15, {ease: FlxEase.cubeOut});
+					FlxTween.tween(rightArrow, {x: 1100, y: 90}, 0.15, {
 						ease: FlxEase.cubeOut,
 						onComplete: function(flx:FlxTween)
 						{
@@ -870,8 +871,8 @@ class StoryMenuState extends MusicBeatState
 					txtWeekTitle.screenCenter(X);
 
 					// Move the arrows back up
-					FlxTween.tween(leftArrow, {x: 640, y: 215}, 0.15, {ease: FlxEase.cubeOut});
-					FlxTween.tween(rightArrow, {x: 1035, y: 215}, 0.15, {
+					FlxTween.tween(leftArrow, {x: 600, y: 215}, 0.15, {ease: FlxEase.cubeOut});
+					FlxTween.tween(rightArrow, {x: 1025, y: 215}, 0.15, {
 						ease: FlxEase.cubeOut,
 						onComplete: function(flx:FlxTween)
 						{
@@ -909,8 +910,8 @@ class StoryMenuState extends MusicBeatState
 					txtWeekTitle.screenCenter(X);
 
 					// Move the arrows back up
-					FlxTween.tween(leftArrow, {x: 700, y: 415}, 0.15, {ease: FlxEase.cubeOut});
-					FlxTween.tween(rightArrow, {x: 975, y: 415}, 0.15, {
+					FlxTween.tween(leftArrow, {x: 660, y: 415}, 0.15, {ease: FlxEase.cubeOut});
+					FlxTween.tween(rightArrow, {x: 965, y: 415}, 0.15, {
 						ease: FlxEase.cubeOut,
 						onComplete: function(flx:FlxTween)
 						{
@@ -1082,8 +1083,8 @@ class StoryMenuState extends MusicBeatState
 
 							// Move the difficulty over on-screen
 							FlxTween.tween(sprMode, {x: 725}, 0.5, {ease: FlxEase.cubeOut});
-							FlxTween.tween(leftArrow, {x: 575}, 0.5, {ease: FlxEase.cubeOut});
-							FlxTween.tween(rightArrow, {x: 1110}, 0.5, {ease: FlxEase.cubeOut});
+							FlxTween.tween(leftArrow, {x: 545}, 0.5, {ease: FlxEase.cubeOut});
+							FlxTween.tween(rightArrow, {x: 1100}, 0.5, {ease: FlxEase.cubeOut});
 							FlxTween.tween(sprDifficulty, {x: 850}, 0.75, {ease: FlxEase.cubeOut});
 							FlxTween.tween(bfCharacters.members[curCharacter], {x: 725}, 1, {
 								ease: FlxEase.cubeOut,
@@ -1123,8 +1124,8 @@ class StoryMenuState extends MusicBeatState
 			txtWeekTitle.screenCenter(X);
 
 			// Move arrows down to next section
-			FlxTween.tween(leftArrow, {x: 640, y: 215}, 0.15, {ease: FlxEase.cubeOut});
-			FlxTween.tween(rightArrow, {x: 1035, y: 215}, 0.15, {
+			FlxTween.tween(leftArrow, {x: 600, y: 215}, 0.15, {ease: FlxEase.cubeOut});
+			FlxTween.tween(rightArrow, {x: 1025, y: 215}, 0.15, {
 				ease: FlxEase.cubeOut,
 				onComplete: function(flx:FlxTween)
 				{
@@ -1147,8 +1148,8 @@ class StoryMenuState extends MusicBeatState
 			txtWeekTitle.screenCenter(X);
 
 			// Move arrows down to next section
-			FlxTween.tween(leftArrow, {x: 700, y: 415}, 0.15, {ease: FlxEase.cubeOut});
-			FlxTween.tween(rightArrow, {x: 975, y: 415}, 0.15, {
+			FlxTween.tween(leftArrow, {x: 660, y: 415}, 0.15, {ease: FlxEase.cubeOut});
+			FlxTween.tween(rightArrow, {x: 965, y: 415}, 0.15, {
 				ease: FlxEase.cubeOut,
 				onComplete: function(flx:FlxTween)
 				{
@@ -1171,8 +1172,8 @@ class StoryMenuState extends MusicBeatState
 			txtWeekTitle.screenCenter(X);
 
 			// Move arrows down to next section
-			FlxTween.tween(leftArrow, {x: 730, y: 575}, 0.15, {ease: FlxEase.cubeOut});
-			FlxTween.tween(rightArrow, {x: 950, y: 575}, 0.15, {
+			FlxTween.tween(leftArrow, {x: 690, y: 575}, 0.15, {ease: FlxEase.cubeOut});
+			FlxTween.tween(rightArrow, {x: 940, y: 575}, 0.15, {
 				ease: FlxEase.cubeOut,
 				onComplete: function(flx:FlxTween)
 				{
@@ -1243,10 +1244,12 @@ class StoryMenuState extends MusicBeatState
 		switch (curDifficulty)
 		{
 			case 0:
+				diffic = '-heaven';
+			case 1:
 				diffic = '-easy';
-			case 2:
-				diffic = '-hard';
 			case 3:
+				diffic = '-hard';
+			case 4:
 				diffic = '-hell';
 		}
 
@@ -1501,9 +1504,9 @@ class StoryMenuState extends MusicBeatState
 
 		if (curDifficulty < 0)
 		{
-			curDifficulty = 3;
+			curDifficulty = 4;
 		}
-		if (curDifficulty > 3)
+		if (curDifficulty > 4)
 		{
 			curDifficulty = 0;
 		}
@@ -1513,15 +1516,18 @@ class StoryMenuState extends MusicBeatState
 		switch (curDifficulty)
 		{
 			case 0:
+				sprDifficulty.animation.play('heaven');
+				sprDifficulty.offset.x = 70;
+			case 1:
 				sprDifficulty.animation.play('easy');
 				sprDifficulty.offset.x = 20;
-			case 1:
+			case 2:
 				sprDifficulty.animation.play('normal');
 				sprDifficulty.offset.x = 70;
-			case 2:
+			case 3:
 				sprDifficulty.animation.play('hard');
 				sprDifficulty.offset.x = 20;
-			case 3:
+			case 4:
 				sprDifficulty.animation.play('hell');
 				sprDifficulty.offset.x = 20;
 		}

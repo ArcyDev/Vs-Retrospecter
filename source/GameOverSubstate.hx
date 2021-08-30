@@ -158,6 +158,7 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		super();
 		Conductor.songPosition = 0;
+		PlayState.firstTry = false;
 
 		bf = new Boyfriend(x, y, daBf);
 		add(bf);
@@ -392,7 +393,6 @@ class GameOverSubstate extends MusicBeatSubstate
 		{
 			PlayState.startTime = 0;
 			isEnding = true;
-			PlayState.firstTry = false;
 
 			// If they retry early, swap the sprite here.
 			if(!isOnLoop && bf.curCharacter == 'bf-wrath-death')

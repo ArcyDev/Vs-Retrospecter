@@ -6,7 +6,7 @@ using StringTools;
 
 class CoolUtil
 {
-	public static var difficultyArray:Array<String> = ['EASY', "NORMAL", "HARD", "HELL"];
+	public static var difficultyArray:Array<String> = ['HEAVEN', 'EASY', "NORMAL", "HARD", "HELL"];
 	public static var modeArray:Array<String> = ['STANDARD', "NO FAIL", "FREESTYLE", "RANDOMIZED"];
 
 	public static function difficultyFromInt(difficulty:Int):String
@@ -20,8 +20,7 @@ class CoolUtil
 	}
 
 	/**
-	 * This method is absolutely fucking atrocious. But lists in HaxeFlixel can't have direct access to its members for some damn reason.
-	 * I am not proud of this. I hate my life.
+	 * Carbon fixed it we're all good :)
 	 *
 	 * @param	legalNotes		A defined boolean array with 4 values that represent which of the 4 notes can be set.
 	 * @return					A random legal integer that represents the note value.

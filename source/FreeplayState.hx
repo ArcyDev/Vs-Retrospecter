@@ -39,7 +39,7 @@ class FreeplayState extends MusicBeatState
 	var unlockDescription:FlxText;
 
 	public static var curSelected:Int = 0;
-	public static var curDifficulty:Int = 1;
+	public static var curDifficulty:Int = 2;
 	public static var curCharacter:Int = 0;
 	public static var curGf:Int = 0;
 
@@ -66,11 +66,11 @@ class FreeplayState extends MusicBeatState
 
 	// Kade Engine doesn't accurately measure ratings for these songs
 	private var difficultyRatings:Array<Dynamic> = [
-		['4.3', '5.5', '6.21', '9.04'],
-		['5.08', '6.66', '8.72', '10.77'],
-		['6.66', '8.88', '10.31', '13.37'],
+		['2.91', '4.3', '5.5', '6.21', '9.04'],
+		['3.63', '5.08', '6.66', '8.72', '10.77'],
+		['4.56', '6.66', '8.88', '10.31', '13.37'],
 		['19.93'],
-		['4.69', '5.69', '6.9', '9.6']
+		['3.69', '4.69', '5.69', '6.9', '9.6']
 	];
 
 	//public static var openedPreview:Bool = false;
@@ -118,6 +118,8 @@ class FreeplayState extends MusicBeatState
 				diffsThatExist.push("HARD");
 			if (FileSystem.exists('assets/data/${format}/${format}-easy.json'))
 				diffsThatExist.push("EASY");
+			if (FileSystem.exists('assets/data/${format}/${format}-heaven.json'))
+				diffsThatExist.push("HEAVEN");
 			if (FileSystem.exists('assets/data/${format}/${format}.json'))
 				diffsThatExist.push("NORMAL");
 
@@ -127,16 +129,18 @@ class FreeplayState extends MusicBeatState
 				continue;
 			}
 			#else
-			diffsThatExist = ["EASY","NORMAL","HARD","HELL"];
+			diffsThatExist = ["HEAVEN","EASY","NORMAL","HARD","HELL"];
 			#end
-			if (diffsThatExist.contains("EASY"))
+			if (diffsThatExist.contains("HEAVEN"))
 				FreeplayState.loadDiff(0,format,meta.songName,diffs);
-			if (diffsThatExist.contains("NORMAL"))
+			if (diffsThatExist.contains("EASY"))
 				FreeplayState.loadDiff(1,format,meta.songName,diffs);
-			if (diffsThatExist.contains("HARD"))
+			if (diffsThatExist.contains("NORMAL"))
 				FreeplayState.loadDiff(2,format,meta.songName,diffs);
-			if (diffsThatExist.contains("HELL"))
+			if (diffsThatExist.contains("HARD"))
 				FreeplayState.loadDiff(3,format,meta.songName,diffs);
+			if (diffsThatExist.contains("HELL"))
+				FreeplayState.loadDiff(4,format,meta.songName,diffs);
 
 			meta.diffs = diffsThatExist;
 
@@ -524,8 +528,8 @@ class FreeplayState extends MusicBeatState
 		curDifficulty += change;
 
 		if (curDifficulty < 0)
-			curDifficulty = 3;
-		if (curDifficulty > 3)
+			curDifficulty = 4;
+		if (curDifficulty > 4)
 			curDifficulty = 0;
 
 
@@ -749,12 +753,14 @@ class FreeplayState extends MusicBeatState
 			switch (curDifficulty)
 			{
 				case 0:
-					diffText.text = "EASY";
+					diffText.text = "HEAVEN";
 				case 1:
-					diffText.text = 'NORMAL';
+					diffText.text = "EASY";
 				case 2:
-					diffText.text = "HARD";
+					diffText.text = 'NORMAL';
 				case 3:
+					diffText.text = "HARD";
+				case 4:
 					diffText.text = "HELL";
 			}
 		}
