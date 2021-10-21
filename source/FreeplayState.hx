@@ -543,13 +543,13 @@ class FreeplayState extends MusicBeatState
 		if (songs[curSelected].songName == 'Ectospasm')
 		{
 			//diffCalcText.text = 'RATING: ${DiffCalc.CalculateDiff(songData.get(songs[curSelected].songName)[0])}';
-			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][0])}';
+			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][0]}';
 			diffText.text = CoolUtil.difficultyFromInt(3).toUpperCase();
 		}
 		else
 		{
 			//diffCalcText.text = 'RATING: ${DiffCalc.CalculateDiff(songData.get(songs[curSelected].songName)[curDifficulty])}';
-			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][curDifficulty])}';
+			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][curDifficulty]}';
 			diffText.text = CoolUtil.difficultyFromInt(curDifficulty).toUpperCase();
 		}
 	}
@@ -683,13 +683,13 @@ class FreeplayState extends MusicBeatState
 		if (songHighscore == "Ectospasm")
 		{
 			//diffCalcText.text = 'RATING: ${DiffCalc.CalculateDiff(songData.get(songs[curSelected].songName)[0])}';
-			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][0])}';
+			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][0]}';
 			diffText.text = CoolUtil.difficultyFromInt(3).toUpperCase();
 		}
 		else
 		{
 			//diffCalcText.text = 'RATING: ${DiffCalc.CalculateDiff(songData.get(songs[curSelected].songName)[curDifficulty])}';
-			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][curDifficulty])}';
+			diffCalcText.text = 'RATING: ${difficultyRatings[curSelected][curDifficulty]}';
 			diffText.text = CoolUtil.difficultyFromInt(curDifficulty).toUpperCase();
 		}
 
