@@ -44,7 +44,7 @@ import sys.io.File;
 #if cpp
 //import webm.WebmPlayer;
 #end
-#if windows
+#if desktop
 import Discord.DiscordClient;
 #end
 #if windows
