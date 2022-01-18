@@ -1,9 +1,10 @@
 package;
 
-#if desktop
-import Sys.sleep;
-import discord_rpc.DiscordRpc;
-
+#if desktop 
+import discord_rpc.DiscordRpc; 
+#if sys
+import Sys.sleep; 
+#end
 using StringTools;
 
 class DiscordClient
