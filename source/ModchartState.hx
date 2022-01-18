@@ -3,7 +3,7 @@
 // Lua
 import flixel.graphics.FlxGraphic;
 import flixel.graphics.frames.FlxAtlasFrames;
-#if windows
+#if desktop
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.tweens.FlxEase;
